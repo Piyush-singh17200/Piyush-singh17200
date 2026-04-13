@@ -1,10 +1,21 @@
-- 👋 Hi, I’m Piyush singh
-- 🌱 I’m currently learning "Web-devlopment"
-- 📫 How to reach me piyushsingh11092006@gmail.com
+# Hi 👋, I'm Piyush Singh
 
+🚀 Full Stack Developer  
+💻 Building cool websites & AI projects  
 
+---
 
-<!---
-Piyush-singh17200/Piyush-singh17200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🛠️ Tech Stack
+- HTML, CSS, JavaScript
+- React, Node.js
+- MongoDB
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=piyush-singh17200&show_icons=true)
+
+---
+
+## 🔥 Streak
+![Streak](https://streak-stats.demolab.com/?user=piyush-singh17200)
